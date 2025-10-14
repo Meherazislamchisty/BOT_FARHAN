@@ -13,15 +13,15 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "◦•●♡ʏᴏᴜʀ ᴀꜰʀᴏᴢᴀ ʙʙʏ♡●•◦",
-  "prefix": "!",
+  "nickNameBot": "◦•●♡ʏᴏᴜʀ ʙʙʏ♡●•◦",
+  "prefix": ",",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
   
-    "61573375301770",
+    "100023789902793",
     "",
     "",
     "",
@@ -30,7 +30,7 @@
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61573375301770",
+    "whiteListIds": ["100023789902793",
 "",
       ""
     ],
