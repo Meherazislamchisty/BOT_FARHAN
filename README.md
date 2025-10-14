@@ -1,4 +1,4 @@
-<h1 align="center">🌸ꗥ～ꗥ🌸 𝐁𝐀𝐁𝐘 𝐁𝐎𝐓 🌸ꗥ～ꗥ🌸 </h1>
+<h1 align="center"> -💀𝑴𝑬𝑯𝑬𝑹𝑨𝒁 𝑩𝑶𝑻💀- </h1>
 
 <p align="center">
   <a href="https://files.catbox.moe/gqutis.jpg">
