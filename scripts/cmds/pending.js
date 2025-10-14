@@ -13,14 +13,14 @@ module.exports = {
       vi: "",
       en: ""
     },
-    category: "ArYan"
+    category: "PERMISSION"
   },
 
 langs: {
     en: {
         invaildNumber: "%1 is not an invalid number",
         cancelSuccess: "Refused %1 thread!",
-        approveSuccess: "Approved successfully %1 threads!",
+        approveSuccess: "APPROVED SUCCESSFULLY%1 threads!",
 
         cantGetPendingList: "Can't get the pending list!",
         returnListPending: "»「PENDING」«❮ The whole number of threads to approve is: %1 thread ❯\n\n%2",
@@ -47,16 +47,8 @@ onReply: async function({ api, event, Reply, getLang, commandName, prefix }) {
         const index = body.split(/\s+/);
         for (const ArYanIndex of index) {
             if (isNaN(ArYanIndex) || ArYanIndex <= 0 || ArYanIndex > Reply.pending.length) return api.sendMessage(getLang("invaildNumber", ArYanIndex), threadID, messageID);
-            api.sendMessage(`♦⪼  𝗖óก𝕟૯τ૯𝕕  ⪻♦ 
-╭──────────────⭓
-│‣ 𝐆𝐥𝐨𝐛𝐚𝐥 𝐩𝐫𝐞𝐟𝐢𝐱: ! 
-│‣ 𝐘𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐩𝐫𝐞𝐟𝐢𝐱: ! 
-╰──────────────⭓
-╭──────────────⭓
-│➜ 𝐎𝐭𝐡𝐞𝐫 𝐃𝐞𝐭𝐚𝐢𝐥𝐬⚠️
-│Owner : 𝗔 𝗬 𝗔 𝗡 シ︎
-│FB : Not Share 
-╰──────────────⭓`, Reply.pending[ArYanIndex - 1].threadID);
+            api.sendMessage(`♦  𝗖ONECTED💀🚩  ♦ 
+YOUR GROUP USEING BOT PERMISSION GRANTED \nBY CHISTY BABA🧘 `, Reply.pending[ArYanIndex - 1].threadID);
             count+=1;
         }
         return api.sendMessage(getLang("approveSuccess", count), threadID, messageID);
