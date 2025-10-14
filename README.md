@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://files.catbox.moe/gqutis.jpg">
-    <img src="https://files.catbox.moe/o0hs41.jpg" alt="Watch demo video" width="400"/>
+    <img src="https://files.catbox.moe/gqutis.jpg" alt="Watch demo video" width="400"/>
   </a>
 </p>
 
