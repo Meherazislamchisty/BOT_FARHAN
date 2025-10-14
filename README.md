@@ -1,7 +1,7 @@
 <h1 align="center">🌸ꗥ～ꗥ🌸 𝐁𝐀𝐁𝐘 𝐁𝐎𝐓 🌸ꗥ～ꗥ🌸 </h1>
 
 <p align="center">
-  <a href="https://files.catbox.moe/o0hs41.jpg">
+  <a href="https://files.catbox.moe/gqutis.jpg">
     <img src="https://files.catbox.moe/o0hs41.jpg" alt="Watch demo video" width="400"/>
   </a>
 </p>
@@ -10,9 +10,9 @@
 
 ## 👤 OWNER INFO
 
-- 👑 Name: **𝐀𝐅𝐑𝐎𝐙𝐀 𝐁𝐀𝐁𝐘**
-- 🏙️ From: **𝗦𝗘𝗫𝗧𝗘𝗡**
-- 🎂 Age: **18💋**
+- 👑 Name: **MEHERAZ**
+- 🏙️ From: **ᴄʜᴀᴛᴛᴏɢʀᴀᴍ**
+- 🎂 Age: **16**
 
 ---
 
