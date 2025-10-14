@@ -13,6 +13,7 @@
 - 👑 Name: **MEHERAZ**
 - 🏙️ From: **ᴄʜᴀᴛᴛᴏɢʀᴀᴍ**
 - 🎂 Age: **16**
+- Facebook: [مهراز إسلام تشيستي](https://www.facebook.com/CHISTY.57).</br>
 
 ---
 
