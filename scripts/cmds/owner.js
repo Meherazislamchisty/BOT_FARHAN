@@ -16,10 +16,10 @@ module.exports = {
 
   onStart: async function ({ api, event }) {
     const owner = {
-      name: "𝑴𝒆𝒉𝒆𝒓𝒂𝒛 𝑰𝒔𝒍𝒂𝒎",
+      name: "𝑀𝑒ℎ𝑒𝑟𝑎𝑧 𝐼𝑠𝑙𝑎𝑚",
       whatsapp: "01905723557",
       botName: "°°♡✨𝐸𝑁𝐼𝐷🐺♡°°",
-      nickName: "𝑪𝑯𝑰𝑺𝑻𝒀",
+      nickName: "𝐶ℎ𝑖𝑠𝑡𝑦",
       class: " ϾLΑЅЅ 10",
       religion: "𝗜𝘀𝗹𝗮𝗺",
       relationship: "𝗦𝗶𝗻𝗴𝗹𝗲",
@@ -45,7 +45,7 @@ module.exports = {
       const r = Math.random() * 1.2;
       ctx.beginPath();
       ctx.arc(x, y, r, 0, 2 * Math.PI);
-      ctx.fillStyle = "rgba(255, 255, 255, 0.8)";
+      ctx.fillStyle = "rgba(255, 255, 255, 0.😎";
       ctx.fill();
     }
 
@@ -156,7 +156,7 @@ module.exports = {
       ctx.quadraticCurveTo(x, y, x + radius, y);
       ctx.closePath();
 
-      ctx.shadowColor = "rgba(255, 0, 204, 0.8)";
+      ctx.shadowColor = "rgba(255, 0, 204, 0.😎";
       ctx.shadowBlur = 15;
 
       const frameGrad = ctx.createLinearGradient(x, y, x + photoW, y + photoH);
