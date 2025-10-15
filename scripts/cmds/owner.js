@@ -192,10 +192,6 @@ module.exports = {
     }, event.threadID, (err, info) => {
       fs.unlinkSync(outPath); // Clean after send
 
-      // ⏳ Delete after 20s
-      setTimeout(() => {
-        api.unsendMessage(info.messageID);
-      }, 20000);
     }, event.messageID);
   }
 };
