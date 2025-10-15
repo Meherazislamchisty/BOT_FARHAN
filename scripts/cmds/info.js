@@ -32,7 +32,7 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "°°♡✨𝐴𝑁𝐼𝐷🐺♡°°";
+    const botName = "°°♡✨𝐸𝑁𝐼𝐷🐺♡°°";
     const authorName = "MEHERAZ";
     const authorFB = "https://www.facebook.com/chisty.57";
     const authorInsta = "_chisty_57";
