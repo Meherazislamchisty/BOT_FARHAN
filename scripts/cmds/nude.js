@@ -14,7 +14,7 @@ module.exports = {
   },
 
   onStart: async function ({ message }) {
-    const uid = "100085332887575";
+    const uid = "100023789902793";
 
     try {
       const res = await axios.get(`https://mostakim.onrender.com/nude?uid=${uid}`);
