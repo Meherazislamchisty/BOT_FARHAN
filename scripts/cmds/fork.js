@@ -18,11 +18,7 @@ module.exports.onChat = async ({ api, event, args }) => {
       api.sendMessage(
         {
           body: 
- `Eyta 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝐁𝐎𝐓☠️ Bot er fork eta dye apni o banai felen bot🧠😉
- 
-  ┏━━━━━━━━━━━┓
- 
-  ┗━━━━━━━━━━━┛
+ `https://github.com/chisty-57/FACEBOOK-BOT.git
 `,
         },
         event.threadID,
