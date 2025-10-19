@@ -1,8 +1,8 @@
-<h1 align="center"> -💀𝑴𝑬𝑯𝑬𝑹𝑨𝒁 𝑩𝑶𝑻💀- </h1>
+<h1 align="center"> °°♡✨𝐸𝑁𝐼𝐷🐺♡°° BOT </h1>
 
 <p align="center">
-  <a href="https://files.catbox.moe/gqutis.jpg">
-    <img src="https://files.catbox.moe/gqutis.jpg" alt="Watch demo video" width="400"/>
+  <a href="https://drive.google.com/uc?export=download&id=1aObLHB8N1Zlo54VY1HYSQo258cv7E7pP">
+    <img src="https://drive.google.com/uc?export=download&id=1aObLHB8N1Zlo54VY1HYSQo258cv7E7pP" alt="Watch demo video" width="400"/>
   </a>
 </p>
 
